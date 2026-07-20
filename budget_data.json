@@ -1,0 +1,9 @@
+{
+    "your_salary": 34000.0,
+    "your_net": 2220.0,
+    "wife_hourly_rate": 14.25,
+    "wife_hours_per_week": 20.0,
+    "use_proportional_split": false,
+    "custom_split_ratio": 50.0,
+    "loans_paused": true
+}
